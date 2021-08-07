@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/giftshop/static/css/main.40052432.chunk.css",
+    "main.js": "/giftshop/static/js/main.7348c9d1.chunk.js",
+    "main.js.map": "/giftshop/static/js/main.7348c9d1.chunk.js.map",
+    "runtime-main.js": "/giftshop/static/js/runtime-main.93987291.js",
+    "runtime-main.js.map": "/giftshop/static/js/runtime-main.93987291.js.map",
+    "static/js/2.ef92bd33.chunk.js": "/giftshop/static/js/2.ef92bd33.chunk.js",
+    "static/js/2.ef92bd33.chunk.js.map": "/giftshop/static/js/2.ef92bd33.chunk.js.map",
+    "index.html": "/giftshop/index.html",
+    "static/css/main.40052432.chunk.css.map": "/giftshop/static/css/main.40052432.chunk.css.map",
+    "static/js/2.ef92bd33.chunk.js.LICENSE.txt": "/giftshop/static/js/2.ef92bd33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93987291.js",
+    "static/js/2.ef92bd33.chunk.js",
+    "static/css/main.40052432.chunk.css",
+    "static/js/main.7348c9d1.chunk.js"
+  ]
+}
